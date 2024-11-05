@@ -9,14 +9,14 @@ This README guide is a central starting point to list the repositories that cont
 
 ## Documentation
 
-[WDF Compass Doctors Documentation](https://github.com/SynaptikDigitalUK/WdfCompassElearningAppDoctor/Documentation/)
+[WDF Compass Doctors Documentation](https://github.com/SynaptikDigitalUK/WdfCompassElearningAppDoctorDocumentation/)
 
-[WDF Compass Nurses Documentation](https://github.com/SynaptikDigitalUK/WdfCompassElearningAppNurse/Documentation/)
+[WDF Compass Nurses Documentation](https://github.com/SynaptikDigitalUK/WdfCompassElearningAppNurseDocumentation/)
 
 
 ## Assets
 
-[WDF Compass Doctors Assets](https://github.com/SynaptikDigitalUK/WdfCompassElearningAppDoctorsAssets/)
+[WDF Compass Doctors Assets](https://github.com/SynaptikDigitalUK/WdfCompassElearningAppDoctorAssets/)
 
 [WDF Compass Nurses Assets](https://github.com/SynaptikDigitalUK/WdfCompassElearningAppNurseAssets/)
 
